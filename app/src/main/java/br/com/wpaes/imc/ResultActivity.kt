@@ -1,4 +1,4 @@
-package br.com.wpaes.imc
+package br.com.example.calc_imc
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
