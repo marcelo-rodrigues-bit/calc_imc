@@ -1,4 +1,4 @@
-package br.com.wpaes.imc
+package br.com.example.calc_imc
 
 import org.junit.Test
 
