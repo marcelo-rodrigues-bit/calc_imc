@@ -1,4 +1,4 @@
-package br.com.wpaes.imc
+package br.com.example.calc_imc
 
 import java.util.*
 import kotlin.math.pow
