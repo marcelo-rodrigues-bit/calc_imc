@@ -1,4 +1,4 @@
-package br.com.wpaes.imc
+package br.com.example.calc_imc
 
 enum class BMIClassification(val classification: String, val obesity: String, val img: Int) {
     MAGREZA("Magreza", "0", R.drawable.abaixo_peso),
